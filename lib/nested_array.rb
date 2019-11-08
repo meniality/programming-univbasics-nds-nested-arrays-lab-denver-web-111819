@@ -17,7 +17,7 @@ ENFIELD_TENNIS_ACADEMY = [
 ]
 
 def assembled_matrix
-  nested_array[
+  nested_array = [
   ENNET_HOUSE, 
   ENFIELD_TENNIS_ACADEMY
   ]
